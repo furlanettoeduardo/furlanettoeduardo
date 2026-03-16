@@ -1,13 +1,16 @@
-### **🧐 About:**
+## About Me
 
-```diff
-@@ Lover of gaming and technology @@
+Passionate about gaming and technology
 
-+ Living in Urussanga, Brazil
-+ 24 years old
-! Focused on PHP, Node.js and React
-# Interested in new projects and learning new stacks.
-```
+Location: Urussanga, Brazil  
+Age: 24
+
+Main focus:
+- PHP
+- Node.js
+- React
+
+Interested in new projects and learning new stacks.
 
 ### 🛠 **My Tools:**
 
