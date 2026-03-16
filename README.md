@@ -65,6 +65,9 @@
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 
 ### Design
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)</div>
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 𝑾𝒆 𝒂𝒓𝒆 𝒂𝒍𝒍 𝒔𝒕𝒂𝒓𝒔 𝒐𝒇 𝒂 𝒔𝒕𝒐𝒓𝒚 𝒕𝒉𝒂𝒕 𝒊𝒔 𝒇𝒂𝒓 𝒇𝒓𝒐𝒎 𝒐𝒗𝒆𝒓
+</div>
+
+
