@@ -1,68 +1,89 @@
-## About Me
+<div align="center">
 
-Passionate about gaming and technology
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&duration=2800&pause=900&color=1F2328&center=true&vCenter=true&width=640&height=60&lines=Hi%2C+I'm+Eduardo+Furlanetto;Full-stack+developer;TypeScript+%C2%B7+PHP+%C2%B7+Java+%C2%B7+Python">
+<img alt="Hi, I'm Eduardo Furlanetto — Full-stack developer" src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&duration=2800&pause=900&color=E6EDF3&center=true&vCenter=true&width=640&height=60&lines=Hi%2C+I'm+Eduardo+Furlanetto;Full-stack+developer;TypeScript+%C2%B7+PHP+%C2%B7+Java+%C2%B7+Python">
+</picture>
 
-Location: Urussanga, Brazil  
-Age: 24
+<p>
+Full-stack developer at <strong>Pro Racing Simulators</strong>, building real-time systems,<br>
+mobile apps and sim-racing tooling. Based in Urussanga, SC · Brazil (UTC−3).
+</p>
 
-Main focus:
-- PHP
-- Node.js
-- React
+<p>
+<a href="https://www.linkedin.com/in/eduardo-furlanetto-nunes">
+<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-eduardo--furlanetto--nunes-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+</a>
+<a href="https://github.com/furlanettoeduardo?tab=repositories">
+<img alt="Repositories" src="https://img.shields.io/badge/Repositories-browse-30363D?style=flat-square&logo=github&logoColor=white">
+</a>
+<img alt="Open to new projects" src="https://img.shields.io/badge/Open%20to-new%20projects-238636?style=flat-square">
+</p>
 
-Interested in new projects and learning new stacks.
-
-### 🛠 **My Tools:**
-
-<div>
-  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c)
-
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-𝑾𝒆 𝒂𝒓𝒆 𝒂𝒍𝒍 𝒔𝒕𝒂𝒓𝒔 𝒐𝒇 𝒂 𝒔𝒕𝒐𝒓𝒚 𝒕𝒉𝒂𝒕 𝒊𝒔 𝒇𝒂𝒓 𝒇𝒓𝒐𝒎 𝒐𝒗𝒆𝒓
 </div>
 
+<br>
 
+## About
+
+I like shipping things end to end: a backend that holds up under load, a frontend that feels right, and the infra in between. Right now my days are split between **TypeScript** (Node, React, React Native), **PHP** and a growing amount of **Java** and **Python**. Outside work I build tools for my own house and desk, and I'm always up for learning a new stack.
+
+<br>
+
+## Stack
+
+<div align="center">
+
+**Languages & frameworks**
+
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,php,laravel,java,spring,python,cs,dotnet,rust&perline=12" alt="TypeScript, JavaScript, Node.js, React, PHP, Laravel, Java, Spring, Python, C#, .NET, Rust"></a>
+
+**Data, infra & tooling**
+
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,redis,prisma,supabase,docker,aws,cloudflare,nginx,tailwind,vite,git&perline=12" alt="PostgreSQL, MySQL, Redis, Prisma, Supabase, Docker, AWS, Cloudflare, Nginx, Tailwind, Vite, Git"></a>
+
+</div>
+
+<br>
+
+## Featured projects
+
+| Project | What it does | |
+| :-- | :-- | --: |
+| **[radar-pncp](https://github.com/furlanettoeduardo/radar-pncp)**<br><sub>Java 21 · Spring Boot · PostgreSQL · SQS · AWS</sub> | Ingests Brazilian public-procurement notices from the PNCP API, enriches them with an LLM and matches them against company profiles. Two services on one `t3.micro`, inside the AWS free tier — every dependency had to earn its place in 1 GB of RAM. | <img alt="stars" src="https://img.shields.io/github/stars/furlanettoeduardo/radar-pncp?style=flat-square&color=30363d"><br><img alt="last commit" src="https://img.shields.io/github/last-commit/furlanettoeduardo/radar-pncp?style=flat-square&color=30363d&label=updated"> |
+| **[assistente-voz](https://github.com/furlanettoeduardo/assistente-voz)**<br><sub>Python · Flask · Groq (Whisper + Qwen) · Piper TTS · openWakeWord</sub> | Home voice assistant: hold a button or say *"hey Jarvis"* to open and close apps, set the volume, control a Tuya bulb, check the weather or play Spotify. Local-first — the LLM never runs a command, it only picks from an allow-list. | <img alt="stars" src="https://img.shields.io/github/stars/furlanettoeduardo/assistente-voz?style=flat-square&color=30363d"><br><img alt="last commit" src="https://img.shields.io/github/last-commit/furlanettoeduardo/assistente-voz?style=flat-square&color=30363d&label=updated"> |
+| **[impacta-academy](https://github.com/furlanettoeduardo/impacta-academy)**<br><sub>TypeScript · React · Node</sub> | Full-stack LMS: courses, lessons, progress tracking and an admin area. | <img alt="stars" src="https://img.shields.io/github/stars/furlanettoeduardo/impacta-academy?style=flat-square&color=30363d"><br><img alt="last commit" src="https://img.shields.io/github/last-commit/furlanettoeduardo/impacta-academy?style=flat-square&color=30363d&label=updated"> |
+| **[bolao-rdt](https://github.com/furlanettoeduardo/bolao-rdt)**<br><sub>TypeScript</sub> | Complete FIFA World Cup 2026 pool: score predictions for all 104 matches and a live ranking. | <img alt="stars" src="https://img.shields.io/github/stars/furlanettoeduardo/bolao-rdt?style=flat-square&color=30363d"><br><img alt="last commit" src="https://img.shields.io/github/last-commit/furlanettoeduardo/bolao-rdt?style=flat-square&color=30363d&label=updated"> |
+| **[reservar-api](https://github.com/furlanettoeduardo/reservar-api)**<br><sub>Java · Spring Boot</sub> | Event-space booking API whose whole point is preventing double bookings under concurrency. | <img alt="stars" src="https://img.shields.io/github/stars/furlanettoeduardo/reservar-api?style=flat-square&color=30363d"><br><img alt="last commit" src="https://img.shields.io/github/last-commit/furlanettoeduardo/reservar-api?style=flat-square&color=30363d&label=updated"> |
+| **[hall3d-releases](https://github.com/furlanettoeduardo/hall3d-releases)**<br><sub>Rust · Tauri · GitHub Releases</sub> | Installers and auto-update feed for **hall3d**, a Windows desktop app written in Rust (the code lives in a private repo; releases are published by CI). | <img alt="stars" src="https://img.shields.io/github/stars/furlanettoeduardo/hall3d-releases?style=flat-square&color=30363d"><br><img alt="last release" src="https://img.shields.io/github/v/release/furlanettoeduardo/hall3d-releases?style=flat-square&color=30363d&label=release"> |
+
+<br>
+
+## Activity
+
+<div align="center">
+
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=furlanettoeduardo&hide_border=true&background=00000000&ring=1a7f37&fire=1a7f37&currStreakNum=1f2328&sideNums=1f2328&currStreakLabel=57606a&sideLabels=57606a&dates=6e7781&date_format=M%20j%5B%2C%20Y%5D">
+<img alt="Contribution streak" src="https://streak-stats.demolab.com?user=furlanettoeduardo&hide_border=true&background=00000000&ring=3fb950&fire=3fb950&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e&date_format=M%20j%5B%2C%20Y%5D">
+</picture>
+
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=furlanettoeduardo&hide_border=true&area=true&bg_color=00000000&color=57606a&line=1a7f37&point=1f2328&area_color=1a7f37&hide_title=true">
+<img alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=furlanettoeduardo&hide_border=true&area=true&bg_color=00000000&color=8b949e&line=3fb950&point=e6edf3&area_color=3fb950&hide_title=true">
+</picture>
+
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/furlanettoeduardo/furlanettoeduardo/output/github-snake.svg">
+<img alt="Contribution graph, snake edition" src="https://raw.githubusercontent.com/furlanettoeduardo/furlanettoeduardo/output/github-snake-dark.svg">
+</picture>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<sub><em>We are all stars of a story that is far from over.</em></sub>
+
+</div>
